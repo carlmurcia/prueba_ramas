@@ -8,4 +8,5 @@
       <artifactId>cientouno</artifactId>
       <version>0.2.1-SNAPSHOT</version>
       <description>Una lInea más para probar cosas</description>
+      <property>Una lInea más para probar cosas</property>
     </project>
